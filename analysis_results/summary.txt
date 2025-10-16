@@ -1,0 +1,27 @@
+=== VIDEO ANALYSIS SUMMARY ===
+
+Video: 7504621-uhd_3840_2160_25fps.mp4
+Duration: 17.04 seconds
+Resolution: 2560x1440
+Analysis Date: 2025-10-15T11:04:23.853006
+
+Total Objects Detected: 213
+Total Faces Detected: 17
+Suspicious Activities: 0
+
+=== TIMELINE ===
+0:00:00: At 0:00:00: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 2 books
+0:00:01: At 0:00:01: Detected 4 persons, 4 cups, 3 books, 2 laptops, 2 chairs
+0:00:02: At 0:00:02: Detected 4 persons, 4 cups, 3 books, 2 laptops, 2 chairs
+0:00:03: At 0:00:03: Detected 4 persons, 4 cups, 3 books, 2 laptops, 2 chairs
+0:00:04: At 0:00:04: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 2 books
+0:00:06: At 0:00:06: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 2 books
+0:00:07: At 0:00:07: Detected 4 persons, 4 cups, 3 chairs, 2 laptops, 2 books
+0:00:08: At 0:00:08: Detected 4 persons, 4 cups, 3 chairs, 2 laptops, 2 books
+0:00:09: At 0:00:09: Detected 4 persons, 4 cups, 3 chairs, 2 laptops, 2 books
+0:00:10: At 0:00:10: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 1 book
+0:00:12: At 0:00:12: Detected 4 persons, 4 cups, 2 laptops, 2 chairs
+0:00:13: At 0:00:13: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 2 books
+0:00:14: At 0:00:14: Detected 4 persons, 4 cups, 3 chairs, 2 laptops, 1 book
+0:00:15: At 0:00:15: Detected 4 persons, 4 cups, 2 laptops, 2 chairs, 1 book
+0:00:16: At 0:00:16: Detected 4 persons, 4 cups, 3 chairs, 2 laptops, 2 books
